@@ -43,15 +43,15 @@ export default function About() {
               <span className="font-display text-xs uppercase tracking-[0.3em] text-muted-foreground">Обо мне</span>
             </div>
             <h2 className="font-display text-5xl md:text-6xl font-bold uppercase text-foreground leading-none mb-8">
-              Привет,<br />я <span className="text-neon-cyan text-glow-cyan">дизайнер</span><br />и разработчик
+              Привет,<br />я <span className="text-neon-cyan text-glow-cyan">кадет</span><br />МЧС России
             </h2>
             <p className="font-golos text-muted-foreground text-lg leading-relaxed mb-6">
-              Я создаю цифровые продукты, которые работают и выглядят отлично. 
-              Фокусируюсь на деталях, функциональности и эстетике.
+              Кадет МЧС России, увлекаюсь технологиями и созданием цифровых продуктов.
+              Совмещаю дисциплину службы с творческим подходом к разработке.
             </p>
             <p className="font-golos text-muted-foreground leading-relaxed mb-10">
-              5 лет в индустрии, более 50 реализованных проектов для стартапов 
-              и крупных компаний. Работаю на стыке дизайна и технологий.
+              Изучаю веб-разработку и дизайн интерфейсов. Верю, что цифровые технологии
+              помогают делать мир безопаснее и удобнее для каждого.
             </p>
 
             <div className="space-y-5">

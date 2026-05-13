@@ -84,9 +84,9 @@ export default function About() {
                 <div className="absolute inset-0 grid-bg opacity-30" />
                 <div className="absolute inset-0 flex flex-col items-center justify-center p-8">
                   <div className="w-32 h-32 rounded-full border-2 border-neon-cyan/50 mb-6 overflow-hidden glow-cyan animate-float">
-                    <img src="https://cdn.poehali.dev/projects/8cf1f413-ae86-4d66-889d-ea0b90071d98/bucket/2d4dcf99-1323-4199-b678-7d08cdc71000.jpg" alt="Степан Хлобыстов" className="w-full h-full object-cover object-top" />
+                    <img src="https://cdn.poehali.dev/projects/8cf1f413-ae86-4d66-889d-ea0b90071d98/bucket/2d4dcf99-1323-4199-b678-7d08cdc71000.jpg" alt="Артем Мельников" className="w-full h-full object-cover object-top" />
                   </div>
-                  <div className="font-display text-2xl font-bold uppercase text-foreground mb-2">Степан Хлобыстов</div>
+                  <div className="font-display text-2xl font-bold uppercase text-foreground mb-2">Артем Мельников</div>
                   <div className="font-golos text-sm text-neon-cyan uppercase tracking-widest mb-6">Designer & Developer</div>
                   
                   <div className="flex gap-4">

@@ -86,7 +86,7 @@ export default function About() {
                   <div className="w-32 h-32 rounded-full bg-gradient-to-br from-neon-cyan/30 to-neon-pink/30 border-2 border-neon-cyan/50 mb-6 flex items-center justify-center glow-cyan animate-float">
                     <span className="text-5xl">👤</span>
                   </div>
-                  <div className="font-display text-2xl font-bold uppercase text-foreground mb-2">Ваше Имя</div>
+                  <div className="font-display text-2xl font-bold uppercase text-foreground mb-2">Степан Хлобыстов</div>
                   <div className="font-golos text-sm text-neon-cyan uppercase tracking-widest mb-6">Designer & Developer</div>
                   
                   <div className="flex gap-4">

@@ -83,8 +83,8 @@ export default function About() {
               <div className="relative bg-card border border-border rounded-xl overflow-hidden aspect-square max-w-md mx-auto">
                 <div className="absolute inset-0 grid-bg opacity-30" />
                 <div className="absolute inset-0 flex flex-col items-center justify-center p-8">
-                  <div className="w-32 h-32 rounded-full bg-gradient-to-br from-neon-cyan/30 to-neon-pink/30 border-2 border-neon-cyan/50 mb-6 flex items-center justify-center glow-cyan animate-float">
-                    <span className="text-5xl">👤</span>
+                  <div className="w-32 h-32 rounded-full border-2 border-neon-cyan/50 mb-6 overflow-hidden glow-cyan animate-float">
+                    <img src="https://cdn.poehali.dev/projects/8cf1f413-ae86-4d66-889d-ea0b90071d98/bucket/2d4dcf99-1323-4199-b678-7d08cdc71000.jpg" alt="Степан Хлобыстов" className="w-full h-full object-cover object-top" />
                   </div>
                   <div className="font-display text-2xl font-bold uppercase text-foreground mb-2">Степан Хлобыстов</div>
                   <div className="font-golos text-sm text-neon-cyan uppercase tracking-widest mb-6">Designer & Developer</div>
